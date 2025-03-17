@@ -11,4 +11,5 @@
  */
 export default {
   browserStartTimeout: 240000,
+  concurrency: 1
 };
